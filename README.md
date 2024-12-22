@@ -1,7 +1,9 @@
-#Mikrokontroller - A081
-#Anugerah Putra Mahanda
-#22081010160
-
+Mikrokontroller - A081
+--
+Anugerah Putra Mahanda
+--
+22081010160
+--
 
 Link Logbook       : 
 [Link Logbook Here](https://drive.google.com/file/d/1u6KvOjNUJ3HUO9Pf0BawH43QbF3LNvBk/view?usp=sharing)
