@@ -115,8 +115,8 @@ void setup() {
       Serial.print(client.state());
       delay(2000);
     }
-    client.subscribe("heater1bas");
-    client.subscribe("heater2bas");
+    client.subscribe("heater1anu");
+    client.subscribe("heater2anu");
   }
 }
 
